@@ -1,0 +1,45 @@
+{
+  "name": "modiasperiores",
+  "version": "1.0.0",
+  "description": "JavaScript APG, an ABNF Parser Generator",
+  "main": "index.js",
+  "files": [
+    "src",
+    "bin",
+    "dist",
+    "dev",
+    "index.js",
+    "index.md",
+    "LICENSE.md",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlvertaHayes/modiasperiores.git"
+  },
+  "keywords": [
+    "APG",
+    "distinctio",
+    "dolorum",
+    "fuga",
+    "SABNF",
+    "reiciendis",
+    "omnis",
+    "RegExp"
+  ],
+  "author": "BoydBahringer",
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/AlvertaHayes/modiasperiores.git",
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "docco": "^0.9.1",
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "less": "^4.2.0",
+    "minify": "^10.3.0",
+    "prettier": "^2.3.0",
+    "terser": "^5.19.2"
+  }
+}
